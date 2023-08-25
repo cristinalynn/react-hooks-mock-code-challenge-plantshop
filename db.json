@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "another aloe",
+      "image": "http://localhost:3001/images/aloe.jpg",
+      "price": 123,
+      "id": 8
+    },
+    {
+      "name": "another aloe!!",
+      "image": "http://localhost:3001/images/aloe.jpg",
+      "price": 12.56,
+      "id": 9
     }
   ]
 }
